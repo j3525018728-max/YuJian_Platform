@@ -14,9 +14,9 @@
   ],
   "window": {
     "navigationBarTitleText": "遇见",
-    "navigationBarBackgroundColor": "#fffaf4",
+    "navigationBarBackgroundColor": "#f6f7f4",
     "navigationBarTextStyle": "black",
-    "backgroundColor": "#fffaf4",
+    "backgroundColor": "#f6f7f4",
     "backgroundTextStyle": "light"
   },
   "style": "v2",
