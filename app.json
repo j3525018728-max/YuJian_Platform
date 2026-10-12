@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/onboarding/onboarding",
+    "pages/index/index",
+    "pages/discover/discover",
+    "pages/ai/ai",
+    "pages/message/message",
+    "pages/profile/profile",
+    "pages/activity/activity",
+    "pages/activity-detail/activity-detail",
+    "pages/activity-create/activity-create",
+    "pages/ai-profile/ai-profile",
+    "pages/chat/chat"
+  ],
+  "window": {
+    "navigationBarTitleText": "遇见",
+    "navigationBarBackgroundColor": "#fffaf4",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fffaf4",
+    "backgroundTextStyle": "light"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
